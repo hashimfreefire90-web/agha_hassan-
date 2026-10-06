@@ -1,0 +1,11 @@
+[
+  {
+    "id": "5f3b197d-51f3-46a7-838c-0dab68560467",
+    "name": "Agha Hassan",
+    "email": "yousuflakhani@gmail.com",
+    "passwordSalt": "13b2623f01d1f5e5134547bf3e4774dd",
+    "passwordHash": "bef7999e03f9b7c9bed4e89a940ec8fa05745a8095b678a0d1506df919507b0d41db4b507637303482a55f4612d31d7af5b509d7a5565055888e90a8038db068",
+    "createdAt": "2026-10-05T11:52:02.759Z",
+    "avatarExt": "jpg"
+  }
+]

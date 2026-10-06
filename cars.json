@@ -1,0 +1,115 @@
+[
+  {
+    "id": "18bc9838-1500-4d1a-a12a-d8019eec89ed",
+    "ownerId": "5f3b197d-51f3-46a7-838c-0dab68560467",
+    "title": "BMW 530e M SPORT — R3",
+    "year": 2021,
+    "price": 22808,
+    "category": "sport",
+    "mileage": 42000,
+    "transmission": "Automatic",
+    "engine": "2.0L Hybrid",
+    "color": "white",
+    "drivetrain": "RWD",
+    "description": "* Leather Power Seats | Seat Heaters\n* Navigation | Full-Seg TV\n* Backup / Surround View Camera\n* Front & Side Cameras\n* Lane Keep Assist | Adaptive Cruise Control\n* Collision Mitigation Brake | ESC\n* Smart Key | Keyless Entry\n* Power Tailgate\n* Turbo | Idling Stop\n* PS | PW | ABS | Airbags\n* Music",
+    "tag": "New arrival",
+    "imageExts": [
+      "jpg",
+      "jpg",
+      "jpg",
+      "jpg"
+    ],
+    "createdAt": "2026-10-05T13:16:35.150Z"
+  },
+  {
+    "id": "33a3aa36-eb53-45a9-8dd1-5f7b4d3ec2eb",
+    "ownerId": "5f3b197d-51f3-46a7-838c-0dab68560467",
+    "title": "TOYOTA GR COROLLA — RZ AWD 4WD",
+    "year": 2024,
+    "price": 37910,
+    "category": "sport",
+    "mileage": 5580,
+    "transmission": "Manual — 6-Speed",
+    "engine": "1.6L Turbo",
+    "color": "Blue",
+    "drivetrain": "4WD / AWD",
+    "description": "🔹 Beautiful Blue Exterior\n🔹 Sporty & Aggressive Styling\n🔹 Rotary Engine\n🔹 Manual Transmission\n🔹 RWD\n🔹 Gold Alloy Wheels\n🔹 Large Rear Spoiler\n🔹 Front Lip & Side Skirts\n🔹 Premium Sport Interior\n🔹 Excellent Condition\n🔹 Japanese Domestic Market (JDM)\n\nA true JDM legend with iconic rotary perf",
+    "tag": "New arrival",
+    "imageExts": [
+      "jpg",
+      "jpg",
+      "jpg",
+      "jpg",
+      "jpg",
+      "jpg",
+      "jpg"
+    ],
+    "createdAt": "2026-10-05T15:36:11.034Z"
+  },
+  {
+    "id": "5e496917-d0c1-40a3-8823-852e95d496de",
+    "ownerId": "5f3b197d-51f3-46a7-838c-0dab68560467",
+    "title": "MERCEDES BENZ V CLASS — V220d",
+    "year": 2021,
+    "price": 24350,
+    "category": "suv",
+    "mileage": 96000,
+    "transmission": "Automatic",
+    "engine": "2.2L Diesel",
+    "color": "Black",
+    "drivetrain": "RWD",
+    "description": "Make & Model\nYear\nPrice USD\nCategory\nMileage\nTransmission\nEngine\nColor\nDrivetrain",
+    "tag": "New arrival",
+    "imageExts": [
+      "jpg",
+      "jpg",
+      "jpg",
+      "jpg"
+    ],
+    "createdAt": "2026-10-05T15:40:35.818Z"
+  },
+  {
+    "id": "a2e8ecc2-0c00-4dac-ab18-03f1290d4265",
+    "ownerId": "5f3b197d-51f3-46a7-838c-0dab68560467",
+    "title": "Audi A7 Sportback",
+    "year": 2015,
+    "price": 6594,
+    "category": "sport",
+    "mileage": 49000,
+    "transmission": "Automatic",
+    "engine": "2.0L TFSI (2000 cc)",
+    "color": "Black",
+    "drivetrain": "AWD (Quattro)",
+    "description": "2015 Audi A7 Sportback 2.0 TFSI Quattro\nColor: Black\nChassis: 4GCYPC\nEngine: 2000 cc\nMileage: 49,000 km\nGrade: 4\nBest FOB Price: ¥1,040,000",
+    "tag": "New arrival",
+    "imageExts": [
+      "jpg",
+      "jpg",
+      "jpg",
+      "jpg"
+    ],
+    "createdAt": "2026-10-05T15:45:21.645Z"
+  },
+  {
+    "id": "b228e0bb-1c98-4052-8d2a-39b3eb4c4343",
+    "ownerId": "5f3b197d-51f3-46a7-838c-0dab68560467",
+    "title": "Audi A7 Sportback",
+    "year": 2022,
+    "price": 1,
+    "category": "sport",
+    "mileage": 8000,
+    "transmission": "Automatic",
+    "engine": "2.0L TFSI Hybrid (2000 cc)",
+    "color": "Gray",
+    "drivetrain": "AWD (Quattro)",
+    "description": "2022 Audi A7 Sportback 45 TFSI Quattro\nColor: Gray\nChassis: F2DKNS\nEngine: 2000 cc Hybrid\nMileage: 8,000 km\nGrade: 5\nPackage: 45 TFSI Quattro",
+    "tag": "New arrival",
+    "imageExts": [
+      "jpg",
+      "jpg",
+      "jpg",
+      "jpg"
+    ],
+    "createdAt": "2026-10-05T16:01:32.950Z"
+  }
+]

@@ -1,0 +1,10 @@
+AGHA HASSAN MOTOR CLUB — WEBSITE PACKAGE
+
+QUICK VIEW
+After extracting the ZIP, you can double-click index.html to view the saved car collection and open car galleries offline. To use Login/Dashboard, add or edit cars, upload photos, or save enquiries, double-click start-site.cmd in the extracted folder and use the browser page it opens. The server is required for those features.
+
+The launcher selects an available local port automatically. Use Login to sign in; use Dashboard to open the member account, upload a profile photo, and add car listings with up to ten photos each. Use Edit on a listing to update its details, remove individual photos with ×, append photos, or replace its gallery. Photos up to 12 MB are resized automatically; JPG, JFIF, PNG, and WebP are supported.
+
+Website orders and enquiry requests save with a Pending status and reference number; view them after signing in under Incoming requests. The customer sees an on-page confirmation. This version does not send email or take payment. Account, car listings, uploaded photos, and saved requests are stored in the private .private folder beside server.js. The full ZIP includes this folder so the current site data and login continue to work after extraction. Keep the ZIP private because it contains account records and customer contact details. Passwords are stored only as scrypt hashes. The HTTP server serves only website pages and dedicated car-photo routes; private account data and profile photos cannot be downloaded as static files. Sessions use an HttpOnly, SameSite cookie and expire after seven days. Close the server command window to stop the local server.
+
+Node.js is required to run the server; no npm install is needed. Directly opening index.html is view-only and uses the saved snapshot bundled with the package. To accept accounts over the public internet, deploy it behind HTTPS and add production operations such as email verification, password reset, backups, and a managed database.
